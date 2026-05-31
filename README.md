@@ -48,8 +48,8 @@ Hub de conteúdo em Laravel 13 + React 18 via Inertia.js, containerizado com Doc
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-thiagopg7-projects.vercel.app/api?username=Thiagopg7&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-thiagopg7-projects.vercel.app/api/top-langs/?username=Thiagopg7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-one-lime-28.vercel.app/api?username=Thiagopg7&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-one-lime-28.vercel.app/api/top-langs/?username=Thiagopg7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -60,5 +60,14 @@ Hub de conteúdo em Laravel 13 + React 18 via Inertia.js, containerizado com Doc
 
 ## Contato
 
-📧 thiagopgpr@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/thiago-henrique-oliveira-de-jesus-358849209)
+<p align="left">
+  <a href="https://linkedin.com/in/thiago-henrique-oliveira-de-jesus-358849209">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thiagopgpr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Thiagopg7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
