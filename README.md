@@ -47,10 +47,10 @@ Hub de conteúdo em Laravel 13 + React 18 via Inertia.js, containerizado com Doc
 
 ## GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-one-lime-28.vercel.app/api?username=Thiagopg7&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-one-lime-28.vercel.app/api/top-langs/?username=Thiagopg7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Thiagopg7&theme=tokyonight&hide_border=true" />
