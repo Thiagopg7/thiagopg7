@@ -44,7 +44,7 @@ Hub de conteúdo em Laravel 13 + React 18 via Inertia.js, containerizado com Doc
 - Testes de feature
 
 ---
-
+<!--
 ## GitHub Stats
 
 <div align="center">
@@ -57,6 +57,7 @@ Hub de conteúdo em Laravel 13 + React 18 via Inertia.js, containerizado com Doc
 </div>
 
 ---
+-->
 
 ## Contato
 
